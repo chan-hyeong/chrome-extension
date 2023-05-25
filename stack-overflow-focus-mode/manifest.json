@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Stack Overflow Focus Mode",
+  "name": "Stack Overflow Focus Mode (Alt+R)",
   "description": "Enable focus mode on Stack Overflow site. 스택오버플로 사이트 내용에 집중할 수 있게 css 조정",
   "version": "1.0",
   "icons": {
@@ -24,8 +24,8 @@
   "commands": {
     "_execute_action": {
       "suggested_key": {
-        "default": "Ctrl+B",
-        "mac": "Command+B"
+        "default": "Alt+R",
+        "mac": "Command+R"
       }
     }
   }
